@@ -17,11 +17,11 @@ export const NAV_LINKS_RIGHT: NavLink[] = [
 export const HERO_IMAGES: string[] = [
   "https://images.unsplash.com/photo-1526772662000-3f88f10405ff?q=80&w=1974&auto=format&fit=crop",
   "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=2070&auto=format&fit=crop",
-  "Public/pexels-gibson-chan-1622383532-34504240.jpg",
+  "pexels-gibson-chan-1622383532-34504240.jpg",
   "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=2070&auto=format&fit=crop",
-  "Public/pexels-fmaderebner-340566.jpg",
+  "pexels-fmaderebner-340566.jpg",
   "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=2021&auto=format&fit=crop",
-  "Public/pexels-sohailone-5191333.jpg",
+  "pexels-sohailone-5191333.jpg",
 ];
 
 export const FEATURES: Feature[] = [
@@ -121,56 +121,56 @@ export const TOURS: Tour[] = [
         day: 1,
         title: "Tokyo Arrival",
         date: "Sun, 29 March 2026",
-        image: "Public/pexels-tomas-malik-793526-3408354.jpg",
+        image: "pexels-tomas-malik-793526-3408354.jpg",
         description: "Arrive at Narita. Meet English-speaking driver at the arrival lobby and transfer to your hotel for check-in. Evening at leisure in Ginza."
       },
       {
         day: 2,
         title: "Tokyo Full-Day Sightseeing",
         date: "Mon, 30 March 2026",
-        image: "Public/pexels-david-tran-1629960371-34644895.jpg",
+        image: "pexels-david-tran-1629960371-34644895.jpg",
         description: "Meet your guide at the hotel lobby (8h). Explore Asakusa Senso-ji & Nakamise, Tokyo Skytree (view from base), Imperial Palace (photo stop), Shinjuku Gyoen Park, Meiji Shrine, Harajuku stroll, and Shibuya Crossing. Return to hotel on your own."
       },
       {
         day: 3,
         title: "Hakone Day Trip",
         date: "Tue, 31 March 2026",
-        image: "Public/japan-4924856_1280.jpg",
+        image: "japan-4924856_1280.jpg",
         description: "Early start: train to Shinjuku and board the Odakyu Romancecar. Hakone sightseeing by public transport: Hakone Open-Air Museum, ropeway to Owakudani, Lake Ashi cruise to Motohakone. Evening Romancecar back to Shinjuku. Luggage sent ahead to Kyoto."
       },
       {
         day: 4,
         title: "Shinkansen to Kyoto + Gion & Fushimi",
         date: "Wed, 01 April 2026",
-        image: "Public/japan-4649393_1280.jpg",
+        image: "japan-4649393_1280.jpg",
         description: "Take the Shinkansen to Kyoto via Tsuruga; meet guide at platform and proceed by public transport to hotel, receive luggage. Kyoto touring: Kiyomizu-dera, Gion stroll, and Fushimi Inari Shrine."
       },
       {
         day: 5,
         title: "Kyoto Classics & Arashiyama",
         date: "Thu, 02 April 2026",
-        image: "Public/architecture-1869398_1280.jpg",
+        image: "architecture-1869398_1280.jpg",
         description: "Full-day Kyoto sightseeing: Kinkaku-ji (Golden Pavilion), Ryoan-ji, Arashiyama Bamboo Grove, Togetsu Bridge, and Tenryu-ji. Return to hotel."
       },
       {
         day: 6,
         title: "To Osaka + City Highlights",
         date: "Fri, 03 April 2026",
-        image: "Public/japan-4549082_1280.jpg",
+        image: "japan-4549082_1280.jpg",
         description: "Transfer to Osaka with guide. Leave luggage at hotel and explore by public transport: Osaka Castle and Shinsaibashi shopping street. Overnight in Osaka."
       },
       {
         day: 7,
         title: "Hiroshima & Miyajima Day Trip",
         date: "Sat, 04 April 2026",
-        image: "Public/pexels-alankrantas-31355868.jpg",
+        image: "pexels-alankrantas-31355868.jpg",
         description: "Local train to Kyoto Station, Shinkansen to Hiroshima. Visit Peace Memorial Park, Museum, and Atomic Bomb Dome. Ferry to Miyajima for Itsukushima Shrine. Shinkansen back to Osaka; overnight."
       },
       {
         day: 8,
         title: "Departure from Osaka",
         date: "Sun, 05 April 2026",
-        image: "Public/pexels-thinkscotty-2574091.jpg",
+        image: "pexels-thinkscotty-2574091.jpg",
         description: "Private car transfer from hotel to Kansai Airport. Fly home with happy memories."
       }
     ],
@@ -211,8 +211,8 @@ export const TOURS: Tour[] = [
     ]
   },
   {
-    image: "Public/christmas-market-7664171_1920.jpg",
-    heroImage: "Public/christmas-market-7664171_1920.jpg",
+    image: "christmas-market-7664171_1920.jpg",
+    heroImage: "christmas-market-7664171_1920.jpg",
     title: "European Tour – Spain & Paris",
     subtitle: "From Gaudí to the Eiffel – A 13-Day Grand Adventure",
     subtitleIcon: <CarIcon />,
@@ -224,42 +224,42 @@ export const TOURS: Tour[] = [
     locations: "Barcelona, Seville, Madrid, Paris",
     tripSnapshot: [
       {
-        image: "Public/trail-5726987_1280.jpg",
+        image: "trail-5726987_1280.jpg",
         title: "Gaudí & Tapas Trails",
         description: "Marvel at Sagrada Familia’s spires, wander Park Güell, and indulge in authentic Spanish tapas."
       },
       {
-        image: "Public/pexels-helenalopes-696218.jpg",
+        image: "pexels-helenalopes-696218.jpg",
         title: "Montserrat & Wine Tasting",
         description: "Ride the cogwheel up to Montserrat, sip Catalonian wines, and savor gourmet tapas with a view."
       },
       {
-        image: "Public/pexels-liisbet-luup-121486327-33005624.jpg",
+        image: "pexels-liisbet-luup-121486327-33005624.jpg",
         title: "White Villages & Ronda",
         description: "Drive through Andalucía’s scenic Pueblos Blancos and gaze into the breathtaking Ronda gorge."
       },
       {
-        image: "Public/pexels-muratmarangoz-15416779.jpg",
+        image: "pexels-muratmarangoz-15416779.jpg",
         title: "Cordoba’s Living History",
         description: "Step into the Mezquita, a masterpiece where Islamic arches meet Christian domes in timeless harmony."
       },
       {
-        image: "Public/pexels-ahrphotography-21855184.jpg",
+        image: "pexels-ahrphotography-21855184.jpg",
         title: "Madrid Royal Heritage",
         description: "Stroll through the Royal Palace and Prado Museum, surrounded by Spanish grandeur and art."
       },
       {
-        image: "Public/pexels-shvets-2574641.jpg",
+        image: "pexels-shvets-2574641.jpg",
         title: "Paris Icons by Day & Night",
         description: "See the Louvre, cruise the Seine, and watch the Eiffel Tower sparkle as night falls on the City of Light."
       },
       {
-        image: "Public/pexels-kirandeepsingh-17220698.jpg",
+        image: "pexels-kirandeepsingh-17220698.jpg",
         title: "Versailles Grandeur",
         description: "Walk the Hall of Mirrors and gardens once ruled by kings, where opulence knows no bounds."
       },
       {
-        image: "Public/pexels-peterfazekas-876610.jpg",
+        image: "pexels-peterfazekas-876610.jpg",
         title: "Street Life of Europe",
         description: "From Seville’s orange-lined lanes to Paris’s boulevards, every stroll tells a story."
       }
@@ -269,91 +269,91 @@ export const TOURS: Tour[] = [
       day: 1,
       title: "Arrival in Barcelona",
       date: "13 April 2025",
-      image: "Public/pexels-apasaric-1388030.jpg",
+      image: "pexels-apasaric-1388030.jpg",
       description: "Private transfer from Barcelona Airport to your hotel. Relax and enjoy your first evening exploring the local cafés or the vibrant streets near Las Ramblas."
     },
     {
       day: 2,
       title: "Barcelona Highlights – Hop-On Hop-Off & Landmarks",
       date: "14 April 2025",
-      image: "Public/overlook-4841320_1280.jpg",
+      image: "overlook-4841320_1280.jpg",
       description: "Start your exploration with a 48-hour Hop-On Hop-Off pass, covering major attractions. Enjoy audioguided visits to the magnificent Sagrada Familia, Park Güell, and ride the Montjuïc Cable Car for sweeping city views."
     },
     {
       day: 3,
       title: "Modernist Marvels",
       date: "15 April 2025",
-      image: "Public/casa-mila-4399343_1280.jpg",
+      image: "casa-mila-4399343_1280.jpg",
       description: "Visit Gaudí’s Casa Milà (La Pedrera) during the Art Season for a glimpse into his iconic architecture. Spend the rest of the day exploring Passeig de Gràcia and local tapas bars."
     },
     {
       day: 4,
       title: "Montserrat & Gourmet Wine Tasting",
       date: "16 April 2025",
-      image: "Public/pexels-laker-5732808.jpg",
+      image: "pexels-laker-5732808.jpg",
       description: "Take a day trip to Montserrat via cogwheel train. Explore the monastery, sample local wines, and enjoy a tapas lunch in a serene Catalonian vineyard setting."
     },
     {
       day: 5,
       title: "Barcelona to Seville",
       date: "17 April 2025",
-      image: "Public/city-5164368_1280.jpg",
+      image: "city-5164368_1280.jpg",
       description: "Private transfer to the airport, then fly to Seville (under own arrangement). After arrival and hotel check-in, enjoy a relaxed evening along the Guadalquivir River."
     },
     {
       day: 6,
       title: "Seville Heritage & Flamenco Night",
       date: "18 April 2025",
-      image: "Public/barber-895148_1280.jpg",
+      image: "barber-895148_1280.jpg",
       description: "Guided visit to Seville Cathedral and the Royal Alcázar. In the evening, attend an authentic Flamenco performance — an unmissable cultural experience."
     },
     {
       day: 7,
       title: "White Villages & Ronda Excursion",
       date: "19 April 2025",
-      image: "Public/spain-7611895_1280.jpg",
+      image: "spain-7611895_1280.jpg",
       description: "Full-day trip to Andalusia’s famous ‘Pueblos Blancos’ and the cliffside town of Ronda. Discover stunning views and local crafts before returning to Seville."
     },
     {
       day: 8,
       title: "Cordoba – Mosque-Cathedral & City Tour",
       date: "20 April 2025",
-      image: "Public/boat-7767575_1280.jpg",
+      image: "boat-7767575_1280.jpg",
       description: "Embark on a guided city tour of Cordoba to visit the Mezquita (Mosque-Cathedral), the Jewish Quarter, and the flower-lined patios that define the city’s charm."
     },
     {
       day: 9,
       title: "Seville to Madrid",
       date: "21 April 2025",
-      image: "Public/madrid-328111_1280.jpg",
+      image: "madrid-328111_1280.jpg",
       description: "Take a high-speed train to Madrid. Drop your bags and enjoy an easy walking orientation through Puerta del Sol and Plaza Mayor."
     },
     {
       day: 10,
       title: "Royal Palace & Prado Museum",
       date: "22 April 2025",
-      image: "Public/castle-park-2487017_1280.jpg",
+      image: "castle-park-2487017_1280.jpg",
       description: "Discover Spain’s royal heritage with skip-the-line access to the Royal Palace and Prado Museum. Explore masterpieces by Goya, Velázquez, and El Greco."
     },
     {
       day: 11,
       title: "Flight to Paris & Louvre Visit",
       date: "23 April 2025",
-      image: "Public/louvre-5767708_1280.jpg",
+      image: "louvre-5767708_1280.jpg",
       description: "Fly to Paris and transfer privately to your hotel. Later, visit the world-renowned Louvre Museum with an audio guide and explore nearby Tuileries Gardens."
     },
     {
       day: 12,
       title: "Paris City Tour, Seine Cruise & Eiffel Tower",
       date: "24 April 2025",
-      image: "Public/paris-4353533_1280.jpg",
+      image: "paris-4353533_1280.jpg",
       description: "Panoramic city tour by coach, followed by a scenic Seine River cruise and reserved-access entry to the Eiffel Tower’s 2nd floor for stunning city views."
     },
     {
       day: 13,
       title: "Versailles & Departure",
       date: "25 April 2025",
-      image: "Public/versailles-94574_1280.jpg",
+      image: "versailles-94574_1280.jpg",
       description: "Visit the Palace of Versailles with priority access and an audio-guided tour of its opulent halls and gardens. Later, transfer to the airport for your departure."
     }
   ],
@@ -405,7 +405,7 @@ export const TOURS: Tour[] = [
     ]
   },
   {
-    image: "Public/nature-2749610_1280.jpg",
+    image: "nature-2749610_1280.jpg",
     title: "Australia & New Zealand Explorer",
     subtitle: "From Sydney’s Harbours to Queenstown’s Peaks",
     subtitleIcon: <MountainIcon />,
@@ -437,8 +437,8 @@ export const TOURS: Tour[] = [
     exclusions: ["International flights", "Visas", "Travel insurance", "Optional activities", "Most lunches and dinners"],
   },
   {
-    image: "Public/tanzania-4544596_1280.jpg",
-    heroImage: "Public/elephant-4389434_1280.jpg",
+    image: "tanzania-4544596_1280.jpg",
+    heroImage: "elephant-4389434_1280.jpg",
     title: "Tanzania Wildlife Safari",
     subtitle: "Face to Face with the Great Migration",
     subtitleIcon: <CarIcon />,
@@ -462,8 +462,8 @@ export const TOURS: Tour[] = [
     exclusions: ["International flights", "Visa fees", "Travel insurance", "Tips for your guide", "Items of a personal nature"],
   },
   {
-    image: "Public/ocean-829715_1280.jpg",
-    heroImage: "Public/ocean-829715_1280.jpg",
+    image: "ocean-829715_1280.jpg",
+    heroImage: "ocean-829715_1280.jpg",
     title: "Magical Mauritius Getaway",
     subtitle: "Beaches, Waterfalls & Island Adventures",
     subtitleIcon: <CarIcon />,
@@ -475,8 +475,8 @@ export const TOURS: Tour[] = [
     locations: "Port Louis, Ile Aux Cerfs, Chamarel, Tamarind Falls"
   },  
   {
-    image: "Public/italy-1215430_1280.jpg",
-    heroImage: "Public/italy-1215430_1280.jpg",
+    image: "italy-1215430_1280.jpg",
+    heroImage: "italy-1215430_1280.jpg",
     title: "Slovenia & South Basilicata Boutique Tour",
     subtitle: "Hidden Europe – From Ljubljana to Matera & the Amalfi Coast",
     subtitleIcon: <CarIcon />,
@@ -501,8 +501,8 @@ export const TOURS: Tour[] = [
     locations: "Hanoi, Halong Bay, Da Nang, Hoi An, Phu Quoc, Ho Chi Minh City"
   },
   {
-    image: "Public/singapore-243671_1280.jpg",
-    heroImage: "Public/singapore-243671_1280.jpg",
+    image: "singapore-243671_1280.jpg",
+    heroImage: "singapore-243671_1280.jpg",
     title: "Singapore & Malaysia Discovery",
     subtitle: "Urban Skylines, Gardens & Cultural Wonders",
     subtitleIcon: <CarIcon />,
@@ -514,7 +514,7 @@ export const TOURS: Tour[] = [
     locations: "Singapore, Kuala Lumpur, Genting, Putrajaya"
   },
   {
-    image: "Public/mountain-7343375_1280.jpg",
+    image: "mountain-7343375_1280.jpg",
     title: "Truly Switzerland Experience",
     subtitle: "Alpine Beauty, Chocolate Trails & Rhine Falls",
     subtitleIcon: <MountainIcon />,
@@ -522,8 +522,8 @@ export const TOURS: Tour[] = [
     slug: "truly-swiss-itinerary",
   },
   {
-    image: "Public/busan-7271234_1280.jpg",
-    heroImage: "Public/busan-7271234_1280.jpg",
+    image: "busan-7271234_1280.jpg",
+    heroImage: "busan-7271234_1280.jpg",
     title: "South Korea Discovery",
     subtitle: "Culture, Coastlines & City Lights",
     subtitleIcon: <CarIcon />,
@@ -535,8 +535,8 @@ export const TOURS: Tour[] = [
     locations: "Seoul, Busan, Jeju Island, Nami Island"
   },
   {
-    image: "Public/pexels-freestockpro-1031659.jpg",
-    heroImage: "Public/thailand-getaway.jpg",
+    image: "pexels-freestockpro-1031659.jpg",
+    heroImage: "thailand-getaway.jpg",
     title: "Thailand Girls’ Getaway",
     subtitle: "Beaches, Nightlife & Island Adventures",
     subtitleIcon: <UtensilsIcon />,
@@ -551,11 +551,11 @@ export const TOURS: Tour[] = [
 
 export const GALLERY_IMAGES: string[] = [
     "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?q=80&w=1966&auto=format&fit=crop",
-    "Public/louvre-7146800_1280.jpg",
+    "louvre-7146800_1280.jpg",
     "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?q=80&w=2070&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=2071&auto=format&fit=crop",
-    "Public/tram-8352473_1280.jpg",
+    "tram-8352473_1280.jpg",
     "https://images.unsplash.com/photo-1518684079-3c830dcef090?q=80&w=1974&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1517732306149-e8f829eb588a?q=80&w=2072&auto=format&fit=crop",
-    "Public/tokyo-skytree-8645455_1280.jpg"
+    "tokyo-skytree-8645455_1280.jpg"
 ];
