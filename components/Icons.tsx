@@ -28,7 +28,7 @@ export const MountainIcon = () => (
   );
 
 export const GroupIcon = () => (
-    <img width="64" height="64" src="Public/icons8-family-96.png" alt="family--v1"/>
+    <img width="64" height="64" src="/icons8-family-96.png" alt="family--v1"/>
 );
 
 export const WorldIcon = () => (
