@@ -32,7 +32,7 @@ export const GroupIcon = () => (
 );
 
 export const WorldIcon = () => (
-    <img width="64" height="64" src="Public/icons8-treasure-map-100.png" alt="treasure-map"/>
+    <img width="64" height="64" src="icons8-treasure-map-100.png" alt="treasure-map"/>
 );
 
 export const LikeIcon = () => (
