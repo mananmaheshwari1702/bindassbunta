@@ -12,7 +12,7 @@ export default function WhatsAppButton() {
       <img
   width="48"
   height="48"
-  src="Public/icons8-whatsapp-96.png"
+  src="icons8-whatsapp-96.png"
   alt="whatsapp"
 />
     </a>
