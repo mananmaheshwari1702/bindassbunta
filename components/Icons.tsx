@@ -28,7 +28,7 @@ export const MountainIcon = () => (
   );
 
 export const GroupIcon = () => (
-    <img width="64" height="64" src="/icons8-family-96.png" alt="family--v1"/>
+    <img width="64" height="64" src="icons8-family-96.png" alt="family--v1"/>
 );
 
 export const WorldIcon = () => (
@@ -36,17 +36,17 @@ export const WorldIcon = () => (
 );
 
 export const LikeIcon = () => (
-    <img width="64" height="64" src="Public/icons8-facebook-like-100.png" alt="facebook-like--v1"/>
+    <img width="64" height="64" src="icons8-facebook-like-100.png" alt="facebook-like--v1"/>
 );
 
 export const HostedIcon = () => (
-    <img width="64" height="64" src="Public/icons8-address-100.png" alt="address--v1"/>
+    <img width="64" height="64" src="icons8-address-100.png" alt="address--v1"/>
 );
 
 export const CompassIcon = () => (
-    <img width="64" height="64" src="Public/icons8-around-the-globe-100.png" alt="around-the-globe"/>
+    <img width="64" height="64" src="icons8-around-the-globe-100.png" alt="around-the-globe"/>
 );
 
 export const BuildingIcon = () => (
-    <img width="64" height="64" src="Public/icons8-hotel-96.png" alt="4-star-hotel"/>
+    <img width="64" height="64" src="icons8-hotel-96.png" alt="4-star-hotel"/>
 );
