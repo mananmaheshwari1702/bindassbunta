@@ -5,13 +5,13 @@ import { GroupIcon, WorldIcon, LikeIcon, HostedIcon, CarIcon, MountainIcon, Snow
 
 export const NAV_LINKS_LEFT: NavLink[] = [
   { label: "Home", href: "#" },
-  { label: "Curated Adventures", href: "#curated-adventures" },
+  { label: "Curated Adventures", href: "/#curated-adventures" },
   { label: "Personalised Tours", href: "#" },
 ];
 
 export const NAV_LINKS_RIGHT: NavLink[] = [
-  { label: "Meet the Founder", href: "#founder" },
-  { label: "Contact Us", href: "#contact" },
+  { label: "Meet the Founder", href: "/#founder" },
+  { label: "Contact Us", href: "/#contact" },
 ];
 
 export const HERO_IMAGES: string[] = [
